@@ -1,6 +1,6 @@
 {
   "name": "gemini-events",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A gemini plugin to listen to gemini events",
   "main": "src/index.js",
   "directories": {
