@@ -1,0 +1,29 @@
+{
+  "name": "gemini-events",
+  "version": "0.1.0",
+  "description": "A gemini plugin to listen to gemini events",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/researchgate/gemini-events.git"
+  },
+  "keywords": [
+    "gemini",
+    "plugin",
+    "events",
+    "runner"
+  ],
+  "author": "Roland Loesslein <info@weaintplastic.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/researchgate/gemini-events/issues"
+  },
+  "homepage": "https://github.com/researchgate/gemini-events#readme",
+  "devDependencies": {}
+}
