@@ -14,6 +14,7 @@
     "url": "git+https://github.com/researchgate/gemini-events.git"
   },
   "keywords": [
+    "gemini-plugin",
     "gemini",
     "plugin",
     "events",
